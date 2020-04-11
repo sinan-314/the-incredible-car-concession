@@ -16,9 +16,11 @@ private:
 
 public:
     // constructeur
+    car();
 
     // destructeur
-
+    ~car();
+    
     // autre fonctions
 
 };

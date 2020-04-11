@@ -15,9 +15,11 @@ private:
 
 public:
     // constructeur
+    moto();
 
     // destructeur
-
+    ~moto();
+    
     // autre fonctions
 
 };

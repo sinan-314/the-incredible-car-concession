@@ -13,9 +13,9 @@ private:
 
 public:
     // constructeur
-
+    vehicule();
     // destructeur
-
+    ~vehicule();
     // autre fonctions
 
 };
