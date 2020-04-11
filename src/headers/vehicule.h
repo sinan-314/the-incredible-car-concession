@@ -1,10 +1,10 @@
-#ifndef PROMO_H
-#define PROMO_H
+#ifndef VEHICULE_H
+#define VEHICULE_H
 
 #include <vector>
 #include <string>
 
-class promo
+class vehicule
 {
 private:
     /* data */
@@ -12,10 +12,8 @@ private:
 
 public:
     // constructeur
-    promo(std::string name);
 
     // destructeur
-    ~promo();
 
     // autre fonctions
 
