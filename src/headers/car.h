@@ -10,6 +10,8 @@ class car : public  vehicule
 {
 private:
     /* data */
+    int nb_wheel = 4;
+    int nb_seat = 5;
 
 
 public:
