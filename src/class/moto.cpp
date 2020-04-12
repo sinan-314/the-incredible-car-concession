@@ -1,8 +1,11 @@
-#include <vector>
-#include <iostream>
+//
+// Created by Abdelhadi Hasnaoui on 12/04/2020.
+//
 
-#include "../headers/vehicule.h"
-#include "../headers/car.h"
+#include "../headers/moto.hpp"
 
 
-using namespace std;
+moto::moto() {
+    s_nb_moto++;
+    s_nb_vehicule++;
+}

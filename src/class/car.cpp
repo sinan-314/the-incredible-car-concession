@@ -1,7 +1,5 @@
-#include <vector>
-#include <iostream>
+//
+// Created by Abdelhadi Hasnaoui on 12/04/2020.
+//
 
-#include "../headers/vehicule.h"
-#include "../headers/car.h"
-
-using namespace std;
+#include "../headers/car.hpp"
