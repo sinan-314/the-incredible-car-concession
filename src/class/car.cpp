@@ -15,5 +15,3 @@ Car::~Car()
     s_nb_cars--;
     s_nb_vehicule--;
 }
-
-

@@ -9,8 +9,6 @@
 #include "vehicule.hpp"
 
 class moto : public V_vehicule {
-private:
-
 public:
     //constructor
     moto();
