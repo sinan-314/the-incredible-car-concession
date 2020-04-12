@@ -8,11 +8,10 @@ using namespace std;
 
 V_vehicule::V_vehicule()
 {
-    s_nb_vehicule++;
 }
 
-V_vehicule::~V_vehicule() {
-
+V_vehicule::~V_vehicule()
+{
 }
 
 void V_vehicule::showGarage() {

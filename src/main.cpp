@@ -2,13 +2,16 @@
 #include <iostream>
 
 #include "headers/vehicule.hpp"
+#include "headers/car.hpp"
 #include "headers/moto.hpp"
+
 
 
 using namespace std;
 
 int main()
 {
-    new moto;
+
+    V_vehicule::showGarage();
     return (0);
 }

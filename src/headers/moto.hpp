@@ -15,6 +15,9 @@ public:
     //constructor
     moto();
 
+    ~moto();
+
+
 };
 
 

@@ -8,10 +8,12 @@
 
 #include "vehicule.hpp"
 
-class car : public V_vehicule{
+class Car : public V_vehicule{
 
 public:
-    car();
+    Car();
+
+    ~Car();
 
 };
 
