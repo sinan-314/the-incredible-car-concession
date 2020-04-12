@@ -1,14 +1,14 @@
 #include <vector>
 #include <iostream>
 
-#include "headers/car.h"
-#include "headers/moto.h"
-#include "headers/vehicule.h"
+#include "headers/vehicule.hpp"
+#include "headers/moto.hpp"
+
 
 using namespace std;
 
 int main()
 {
-
-  return (0);
+    new moto;
+    return (0);
 }
