@@ -1,16 +1,5 @@
-//
-// Created by Abdelhadi Hasnaoui on 12/04/2020.
-//
-
-
 #ifndef VEHICULE_HPP
 #define VEHICULE_HPP
-
-#include <vector>
-#include <string>
-
-
-
 
 class V_vehicule
 {
@@ -26,7 +15,5 @@ public:
 
     static void showGarage(void);
 };
-
-
 
 #endif // PROMO_H
