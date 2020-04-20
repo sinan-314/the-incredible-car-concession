@@ -9,6 +9,10 @@
 
 using namespace std;
 
+int V_vehicule::s_nb_moto = 0;
+int V_vehicule::s_nb_cars = 0;
+int V_vehicule::s_nb_vehicule = 0;
+
 
 V_vehicule::V_vehicule()
 {
